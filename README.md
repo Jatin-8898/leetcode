@@ -1,8 +1,7 @@
 LeetCode
 ========
 
-### LeetCode Algorithm
-
+### Easy
 
 | #   | Title | Solution | Difficulty |
 | --- | ----- | -------- | ---------- |
@@ -24,3 +23,33 @@ LeetCode
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./Easy/BalancedBinaryTree.java) | Easy
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Java](./Easy/PathSum.java) | Easy
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](./Easy/PascalsTriangle.java) | Easy
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./Easy/BestTimeToBuyAndSellStock.java) | Easy
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](./Easy/ValidPalindrome.java) | Easy
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](./Easy/SingleNumber.java) | Easy
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./Easy/MinStack.java) | Easy
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Java](./Easy/MajorityElement.java) | Easy
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](./Easy/ExcelSheetColumnNumber.java) | Easy
+| 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Java](./Easy/FactorialTrailingZeroes.java) | Easy
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java](./Easy/RotateArray.java) | Easy
+| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Java](./Easy/ReverseBits.java) | Easy
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Java](./Easy/NumberOf1Bits.java)|Easy|
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Java](./Easy/HouseRobber.java) | Easy
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Java](./Easy/HappyNumber.java) | Easy
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [Java](./Easy/CountPrimes.java) | Easy
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./Easy/ValidAnagram.java) | Easy
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Java](./Easy/MissingNumber.java) | Easy
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./Easy/MoveZeroes.java) | Easy
+| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Java](./Easy/WordPattern.java) | Easy
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./Easy/PowerOfThree.java) | Easy
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./Easy/ReverseString.java) | Easy
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](./Easy/IntersectionOfTwoArrays.java)|Easy|
+| 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./Easy/SumOfTwoIntegers.java) | Easy
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](./Easy/FizzBuzz.java) | Easy
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Java](./Easy/NextGreaterElementI.java) | Easy
+
+
+
+### Medium
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
