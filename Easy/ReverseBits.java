@@ -1,4 +1,4 @@
-class Reverse32bit {
+class ReverseBits {
     public int reverse(int x) {
         boolean overflowed = false;
         int result = 0;

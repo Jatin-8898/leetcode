@@ -1,25 +1,5 @@
 class Solution {
     
-    /* BEST SOLUTION 
-        TIME : O(n)
-        SPACE: O(1)
-    */
-    public int robEff(int[] nums) {
-        if (nums.length == 0) return 0;
-        
-        int prev1 = 0;
-        int prev2 = 0;
-        
-        for (int num : nums) {
-            int tmp = prev1;
-            prev1 = Math.max(prev2 + num, prev1);
-            prev2 = tmp;
-        }
-        
-        return prev1;
-    }
-
-    /* ANOTHER WAY */
     public int rob(int[] nums) {    //Eg 2, 7 ,9 ,3 ,1 
 
         int n = nums.length;        //n=5
@@ -38,7 +18,6 @@ class Solution {
 
         return Math.max(nums[n-1], nums[n-2]);  //Max(12,10)  => return 12 correct ans
     }
-
 
     /* ANOTHER APPROACH */
     public int rob2(int[] nums) {
