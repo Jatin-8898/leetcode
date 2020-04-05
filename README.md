@@ -6,10 +6,12 @@ LeetCode
 | #   | Title | Solution | Difficulty |
 | --- | ----- | -------- | ---------- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./Easy/TwoSum.java) | Easy
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java](./Easy/ReverseInteger.java) | Easy
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./Easy/PalindromeNumber.java) | Easy
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Java](./Easy/RomanToInteger.java) | Easy
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [Java](./Categories/LongestCommonPrefix/LongestCommonPrefix.java)|Easy|
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./Easy/ValidParentheses.java) | Easy
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Java](./Easy/MergeTwoSortedLists.java) | Easy
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Java](./Categories/LinkedList/MergeTwoSortedLists.java) | Easy
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](./Easy/RemoveDupInArray.java)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [Java](./Easy/SearchInsertPosition.java)|Easy|
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Java](./Easy/CountAndSay.java) | Easy
@@ -17,6 +19,7 @@ LeetCode
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [Java](./Easy/Sqrt.java)|Easy|
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](./Easy/ClimbingStairs.java) | Easy
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [Java](./Easy/RemoveDuplicatesFromSortedLists.java)|Easy|
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./Easy/MergeSortedArray.java) | Easy
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](./Easy/SymmetricTree.java) | Easy
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](./Easy/MaximumDepthOfBinaryTree.java) | Easy
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Java](./Easy/ConvertSortedArrayToBinarySearchTree.java) | Easy
@@ -26,6 +29,7 @@ LeetCode
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./Easy/BestTimeToBuyAndSellStock.java) | Easy
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](./Easy/ValidPalindrome.java) | Easy
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](./Easy/SingleNumber.java) | Easy
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [Java](./Categories/LinkedList/LinkedListCycle.java)|Easy|
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./Easy/MinStack.java) | Easy
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Java](./Easy/MajorityElement.java) | Easy
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](./Easy/ExcelSheetColumnNumber.java) | Easy
