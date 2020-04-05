@@ -1,4 +1,4 @@
-LeetCode
+# LeetCode 🤖
 ========
 
 ### Easy
@@ -40,6 +40,7 @@ LeetCode
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Java](./Easy/HouseRobber.java) | Easy
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Java](./Easy/HappyNumber.java) | Easy
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [Java](./Easy/CountPrimes.java) | Easy
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Java](./Easy/IsomorphicStrings.java) | Easy
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./Easy/ValidAnagram.java) | Easy
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Java](./Easy/MissingNumber.java) | Easy
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./Easy/MoveZeroes.java) | Easy
@@ -48,15 +49,27 @@ LeetCode
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./Easy/ReverseString.java) | Easy
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](./Easy/IntersectionOfTwoArrays.java)|Easy|
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./Easy/SumOfTwoIntegers.java) | Easy
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./Easy/FirstUniqueChar.java)|Easy|
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](./Easy/FizzBuzz.java) | Easy
+| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | 
+[Java](./Easy/FindAllNumbersDisappearedInAnArray.java) | Easy
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Java](./Easy/NextGreaterElementI.java) | Easy
-
+| 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](./Easy/MergeTwoBinaryTrees.java) | Easy
+| 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java](./Easy/MinCostClimbingStairs.java) | Easy
+| 796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | [Java](./Easy/RotateString.java) | Easy
+| 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [Java](./Easy/GoatLatin.java) | Easy
+| 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Java](./Easy/MaximizeDistanceToClosestPerson.java) | Easy
+| 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [Java](./Easy/UncommonWordsFromTwoSentences.java) | Easy
+| 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Java](./Easy/ReverseOnlyLetters.java) | Easy
+| 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Java](./Easy/GreatestCommonDivisorOfStrings.java) | Easy
+| 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./Easy/DefangingIP.java) | Easy
 
 
 ### Medium
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Java](./Medium/StringToIntegerAtoi.java) | Medium
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java](./Medium/ContainerWithMostWater.java) | Medium
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](./Medium/GenerateParentheses.java) | Medium
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Java](./Medium/ValidSudoku.java) | Medium
