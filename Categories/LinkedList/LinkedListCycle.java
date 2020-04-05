@@ -4,7 +4,7 @@ class ListNode {
     ListNode(int x) { val = x; }
 }
  
-public class Cycle {
+public class LinkedListCycle {
     public boolean hasCycle(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;
