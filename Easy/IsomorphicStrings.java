@@ -2,7 +2,7 @@ package String;
 
 import java.util.*;
 
-class IsomorphicString {
+class IsomorphicStrings {
     public boolean isIsomorphic(String s, String t) {
 
         // Base code

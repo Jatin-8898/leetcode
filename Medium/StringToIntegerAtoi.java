@@ -1,6 +1,6 @@
 package String;
 
-class StringToIntAtoi {
+class StringToIntegerAtoi {
     public static void main(String[] args) {
         int res = myAtoi("jatin 0345");
         System.out.println(res);

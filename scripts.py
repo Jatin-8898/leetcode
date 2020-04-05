@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup as bs
 import sys
 
 directory = sys.argv[1]
-new_name = directory[7:-5]
+new_name = directory[9:-5]
 new_str = ''
 
 for index, e in enumerate(new_name[:-1]):
