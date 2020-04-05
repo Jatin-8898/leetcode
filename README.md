@@ -50,8 +50,7 @@
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./Easy/SumOfTwoIntegers.java) | Easy
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./Easy/FirstUniqueChar.java)|Easy|
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](./Easy/FizzBuzz.java) | Easy
-| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | 
-[Java](./Easy/FindAllNumbersDisappearedInAnArray.java) | Easy
+| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](./Easy/FindAllNumbersDisappearedInAnArray.java) | Easy
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Java](./Easy/NextGreaterElementI.java) | Easy
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](./Easy/MergeTwoBinaryTrees.java) | Easy
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java](./Easy/MinCostClimbingStairs.java) | Easy
