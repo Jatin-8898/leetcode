@@ -1,4 +1,4 @@
-class DecodingWays {
+class DecodeWays {
     
     public static int numDecodings(String s) {
         

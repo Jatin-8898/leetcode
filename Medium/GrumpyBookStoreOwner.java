@@ -1,4 +1,4 @@
-class GrumpyBookStoreOwner {
+class GrumpyBookstoreOwner {
    
     public int maxSatisfied(int[] customers, int[] grumpy, int X) {
         int sum = 0, maxWindow = 0, window = 0;
