@@ -96,3 +96,11 @@ LeetCode
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Java](./Hard/BasicCalculator.java) | Hard
 
 
+### SQL
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [SQL](./SQL/CombineTwoTables.sql) | Easy
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [SQL](./SQL/SecondHighestSalary.sql) | Easy
+| 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [SQL](./SQL/NthHighestSalary.sql) | Medium
+| 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | [SQL](./SQL/RankScores.sql) | Medium
+| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [SQL](./SQL/DuplicateEmails.sql) | Easy
