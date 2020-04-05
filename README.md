@@ -53,3 +53,46 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java](./Medium/ContainerWithMostWater.java) | Medium
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](./Medium/GenerateParentheses.java) | Medium
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Java](./Medium/ValidSudoku.java) | Medium
+| 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Java](./Medium/Permutations.java) | Medium
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/)| [Java](./Medium/PermutationII.java)|Medium|
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Java](./Medium/RotateImage.java) | Medium
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](./Medium/GroupAnagrams.java) | Medium
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Java](./Medium/JumpGame.java) | Medium
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java](./Medium/UniquePaths.java) | Medium
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| [Java](./Medium/UniquePathsII.java)|Medium|
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Java](./Medium/Subsets.java) | Medium
+|90|[Subsets II](https://leetcode.com/problems/subsets-ii/)| [Java](./Medium/SubsetsII.java)|Medium|
+| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Java](./Medium/DecodeWays.java) | Medium
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./Medium/BinaryTreeInorderTraversal.java) | Medium
+| 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Java](./Medium/UniqueBinarySearchTrees.java) | Medium
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](./Medium/BinaryTreeLevelOrderTraversal.java) | Medium
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Java](./Medium/ConstructBinaryTreeFromInorderAndPostorderTraversal.java) | Medium 
+| 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [Java](./Medium/LargestNumber.java) | Medium
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](./Medium/KthLargestElementInAnArray.java) | Medium
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [Java](./Medium/KthSmallestElementInBst.java)|Medium|
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java](./Medium/ProductOfArrayExceptSelf.java) | Medium
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](./Medium/FindTheDuplicateNumber.java) | Medium
+| 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [Java](./Medium/GameOfLife.java) | Medium
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Java](./Medium/TopKFrequentElement.java) |Medium|
+|378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | [Java](./Medium/KthSmallestElementInSortedMatrix.java) |Medium|
+| 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [Java](./Medium/ShuffleAnArray.java) | Medium
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Java](./Medium/LongestRepeatingCharacterReplacement.java) | Medium
+| 454 | [4SumII](https://leetcode.com/problems/4sum-ii) | [Java](./Medium/4SumII.java) | Medium
+| 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | [Java](./Medium/GrumpyBookstoreOwner.java) | Medium
+
+
+
+
+
+### Hard
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](./Hard/TrappingRainWater.java) | Hard
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [Java](./Hard/JumpGameII.java)|Hard|
+| 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Java](./Hard/InsertInterval.java) | Hard
+| 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Java](./Hard/BasicCalculator.java) | Hard
+
+
