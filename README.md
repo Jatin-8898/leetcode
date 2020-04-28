@@ -59,7 +59,7 @@
 | 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Java](./Easy/MaximizeDistanceToClosestPerson.java) | Easy
 | 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [Java](./Easy/UncommonWordsFromTwoSentences.java) | Easy
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Java](./Easy/ReverseOnlyLetters.java) | Easy
-| 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Java](./Easy/GreatestCommonDivisorOfStrings.java) | Easy
+| 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Java](./Easy/GreatestCommonDivisorOfStrings.java) |Easy
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./Easy/DefangingIP.java) | Easy
 
 
